@@ -1,4 +1,4 @@
-# Hospitality-Domain-Revenue-Insights
+# Hospitality Domain (Revenue-Insights)
 AtliQ Grands is a well-established hospitality company that owns multiple five-star hotels across India. The company has been in the industry for the past 20 years and is known for its luxury and business hotels.
 
 ## Problem Statement
