@@ -8,6 +8,7 @@ ArliQ Grands aims to analyze data from from all channels to create key metrics a
 
 ## Data Sources
 CSV File
+
 Excel File
 
 # Insights Gained from Visualisations:
