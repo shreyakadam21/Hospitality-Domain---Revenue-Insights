@@ -14,13 +14,12 @@ Excel File
 # Insights Gained from Visualisations:
 
 1. There is minimal disparity in the pricing structure of hotels between weekdays and weekends.
-2. Luxury accommodations contribute to a substantial 61.62% of the total revenue.
-3. Business-oriented establishments contribute 38.38% to the overall revenue.
+2. Luxury accommodations contribute to a substantial 57.59% of the total revenue.
+3. Business-oriented establishments contribute 58.12% to the overall revenue.
 4. The hotel employs a fixed pricing strategy for both weekdays and weekends, without utilizing dynamic pricing.
 5. The hotels' average ratings are modest; an enhanced focus on bolstering online reputation is essential.
 6. Mumbai emerges as the most prolific revenue-generating city, while Delhi records comparatively lower revenue.
 7. Atliq Blu boasts the highest rating among the hotels.
-8. Despite fewer bookings, Bangalore generates more revenue than Hyderabad.
 
 # Recommendation
 
