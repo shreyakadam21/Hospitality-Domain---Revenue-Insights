@@ -24,7 +24,7 @@ Excel File
 
 # Recommendation
 
-1. Bengaluru has good revenue but the lowest average rating. To improve, focus on enhancing cistomer experience by training staff, upgrading facilities, and gathering regular feedback.
+1. Bengaluru has good revenue but the lowest average rating. To improve, focus on enhancing customer experience by training staff, upgrading facilities, and gathering regular feedback.
 2. Delhi has high ratings but lower revenue. Use targeted marketing to attract more visitor and agjust pricing strategies to increase revenue.
 3. Presidential rooms show high occupancy but low revenue. Reassess pricing strategies and focus on improving customer experience to maximize revenue.
     
